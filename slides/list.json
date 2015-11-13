@@ -31,8 +31,10 @@
         "crud-request.html",
         "crud-tasks.html"
     ],
-    "mongodb-benefits.html",
+    [
+        "make-your-life-easier.html",
+        "anyandgo-benefits.html"
+    ],
     "contact.html",
-    "make-your-life-easier.html",
-    "anyandgo-benefits.html"
+    "mongodb-benefits.html"
 ]
