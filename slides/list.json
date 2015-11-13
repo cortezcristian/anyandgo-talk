@@ -13,7 +13,14 @@
         "js-all-the-way-down.html",
         "js-all-the-way-down-2.html"
     ],
-    "installing.html",
+    [
+        "installing.html",
+        {
+            "attr": {
+                "data-background": "resources/img/anyandgo-ready.png"
+            }
+        }
+    ],
     [
         "impress-your-boss.html",
         {
