@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Anyandgo.io",
+    "packageVersion": "0.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "anyandgo-talk"
+  }
+}
