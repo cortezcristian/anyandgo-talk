@@ -6,6 +6,7 @@
     },
     [
         "index.html",
+        "worked-for.html",
         "key-points.html"
     ],
     [
@@ -36,6 +37,5 @@
         "anyandgo-benefits.html",
         "made-with-anyandgo.html"
     ],
-    "contact.html",
-    "worked-for.html"
+    "contact.html"
 ]
