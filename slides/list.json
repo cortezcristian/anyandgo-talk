@@ -1,4 +1,9 @@
 [
+    {
+        "attr": {
+            "data-background": "resources/img/anyandgo-web.png"
+        }
+    },
     "index.html",
     "mean-stack.html",
     "installing.html"
