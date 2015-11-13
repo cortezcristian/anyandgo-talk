@@ -4,8 +4,16 @@
             "data-background": "resources/img/anyandgo-web.png"
         }
     },
-    "index.html",
-    "mean-stack.html",
+    [
+        "index.html",
+        "key-points.html"
+    ],
+    [
+        "mean-stack.html",
+        "js-all-the-way-down.html",
+        "js-all-the-way-down-2.html"
+    ],
     "installing.html",
-    "key-points.html"
+    "impress-your-boss.html",
+    "mongodb-benefits.html"
 ]
