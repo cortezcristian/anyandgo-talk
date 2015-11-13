@@ -20,8 +20,9 @@
             "attr": {
                 "data-background": "resources/img/impress-ur-boss.jpg"
             }
-        }
+        },
+        "crud-request.html",
+        "crud-tasks.html"
     ],
-    "mongodb-benefits.html",
-    "crud-tasks.html"
+    "mongodb-benefits.html"
 ]
