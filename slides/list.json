@@ -1,0 +1,41 @@
+[
+    {
+        "attr": {
+            "data-background": "resources/img/anyandgo-web.png"
+        }
+    },
+    [
+        "index.html",
+        "worked-for.html",
+        "key-points.html"
+    ],
+    [
+        "mean-stack.html",
+        "js-all-the-way-down.html",
+        "js-all-the-way-down-2.html"
+    ],
+    [
+        "installing.html",
+        {
+            "attr": {
+                "data-background": "resources/img/anyandgo-ready.png"
+            }
+        }
+    ],
+    [
+        "impress-your-boss.html",
+        {
+            "attr": {
+                "data-background": "resources/img/impress-ur-boss.jpg"
+            }
+        },
+        "crud-request.html",
+        "crud-tasks.html"
+    ],
+    [
+        "make-your-life-easier.html",
+        "anyandgo-benefits.html",
+        "made-with-anyandgo.html"
+    ],
+    "contact.html"
+]
